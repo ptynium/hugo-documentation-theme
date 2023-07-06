@@ -21,7 +21,7 @@ design:
   background:
     gradient_start: "#FFBE00"
     gradient_end: "#FFBE00"
-    text_color_light: true
+    text_color_light: false
 hero_media: book.svg
 ---
 NorthSIM FAQ
