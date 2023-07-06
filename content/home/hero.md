@@ -13,14 +13,14 @@ cta:
 widget_id: NorthSIM - Frequently Asked Questions
 headless: true
 weight: 10
-title: Project Docs Template
+title: ""
 cta_alt:
   url: docs/
   label: View Documentation
 design:
   background:
-    gradient_start: "#4bb4e3"
-    gradient_end: "#2b94c3"
+    gradient_start: "#FFBE00"
+    gradient_end: "#FFBE00"
     text_color_light: true
 hero_media: book.svg
 ---
