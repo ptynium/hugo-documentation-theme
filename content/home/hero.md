@@ -24,4 +24,3 @@ design:
     text_color_light: false
 hero_media: book.svg
 ---
-NorthSIM FAQ
