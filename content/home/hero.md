@@ -13,7 +13,7 @@ cta:
 widget_id: NorthSIM - Frequently Asked Questions
 headless: true
 weight: 10
-title: ""
+title: NorthSIM - Frequently Asked Questions
 cta_alt:
   url: docs/
   label: View Documentation
